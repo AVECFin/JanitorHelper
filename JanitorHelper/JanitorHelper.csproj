@@ -7,7 +7,7 @@
     <ProjectGuid>{5D1F66F9-60F5-4C97-AE06-F64E7369A8AC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>JanitorHelper</RootNamespace>
+    <RootNamespace>MKApplication</RootNamespace>
     <AssemblyName>JanitorHelper</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

@@ -1,9 +1,4 @@
-﻿// <copyright file="" company="My Company Name">
-// Copyright (c) 2014 All Rights Reserved
-// <author>Leniel Macaferi</author>
-// </copyright>
-      
-
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,7 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace JanitorHelper
+namespace MKApplication
 {
   /// <summary>
   /// Interaction logic for MainWindow.xaml
