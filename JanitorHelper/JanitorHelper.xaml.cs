@@ -1,4 +1,10 @@
-﻿using System;
+﻿// <copyright file="" company="My Company Name">
+// Copyright (c) 2014 All Rights Reserved
+// <author>Leniel Macaferi</author>
+// </copyright>
+      
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
