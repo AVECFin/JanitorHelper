@@ -1,7 +1,7 @@
-﻿<Window x:Class="MKApplication.MainWindow"
+﻿<Window x:Class="MKApplication.JanitorHelperGUI"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="JanitorHelper" Height="550" Width="525" ResizeMode="NoResize">
+        Height="550" Width="525" ResizeMode="NoResize">
     <Grid>
         
     </Grid>

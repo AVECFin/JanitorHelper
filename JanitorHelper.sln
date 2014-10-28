@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JanitorHelper", "JanitorHelper\JanitorHelper.csproj", "{5D1F66F9-60F5-4C97-AE06-F64E7369A8AC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKApplicationCore", "MKApplicationCore\MKApplicationCore.csproj", "{74BDB001-ED6B-4BFF-B8F0-389265E495C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKApplicationMain", "MKApplicationMain\MKApplicationMain.csproj", "{23E00D9D-5F5D-47C2-993E-00638DEAA985}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5D1F66F9-60F5-4C97-AE06-F64E7369A8AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D1F66F9-60F5-4C97-AE06-F64E7369A8AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D1F66F9-60F5-4C97-AE06-F64E7369A8AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74BDB001-ED6B-4BFF-B8F0-389265E495C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BDB001-ED6B-4BFF-B8F0-389265E495C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BDB001-ED6B-4BFF-B8F0-389265E495C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BDB001-ED6B-4BFF-B8F0-389265E495C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23E00D9D-5F5D-47C2-993E-00638DEAA985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E00D9D-5F5D-47C2-993E-00638DEAA985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E00D9D-5F5D-47C2-993E-00638DEAA985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E00D9D-5F5D-47C2-993E-00638DEAA985}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
